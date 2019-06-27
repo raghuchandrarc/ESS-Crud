@@ -1,0 +1,13 @@
+
+10.44.10.75:8088/Bookstore/new
+
+
+C:\Users\Public\Documents\mysql-5.7.26-winx64\bin
+
+mysql -u root
+use mysql;
+update user set password=PASSWORD("admin") where User='root';
+flush privileges;
+quit
+
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost' IDENTIFIED BY 'admin' WITH GRANT OPTION;

@@ -1,0 +1,452 @@
+src/net/codejava/javaee/empdb/ControllerServlet.java(18,  AtLeastOneConstructor):  Each class should declare at least one constructor
+src/net/codejava/javaee/empdb/ControllerServlet.java(18,  AtLeastOneConstructor):  Each class should declare at least one constructor
+src/net/codejava/javaee/empdb/ControllerServlet.java(20,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/ControllerServlet.java(20,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/ControllerServlet.java(20,  BeanMembersShouldSerialize):  Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/net/codejava/javaee/empdb/ControllerServlet.java(20,  BeanMembersShouldSerialize):  Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/net/codejava/javaee/empdb/ControllerServlet.java(22,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/ControllerServlet.java(22,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/ControllerServlet.java(22,  MissingOverride):  The method 'init()' is missing an @Override annotation.
+src/net/codejava/javaee/empdb/ControllerServlet.java(22,  MissingOverride):  The method 'init()' is missing an @Override annotation.
+src/net/codejava/javaee/empdb/ControllerServlet.java(23,  LocalVariableCouldBeFinal):  Local variable 'jdbcURL' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(23,  LocalVariableCouldBeFinal):  Local variable 'jdbcURL' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(23,  LawOfDemeter):  Potential violation of Law of Demeter (method chain calls)
+src/net/codejava/javaee/empdb/ControllerServlet.java(23,  LawOfDemeter):  Potential violation of Law of Demeter (method chain calls)
+src/net/codejava/javaee/empdb/ControllerServlet.java(24,  LocalVariableCouldBeFinal):  Local variable 'jdbcUsername' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(24,  LocalVariableCouldBeFinal):  Local variable 'jdbcUsername' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(24,  LawOfDemeter):  Potential violation of Law of Demeter (method chain calls)
+src/net/codejava/javaee/empdb/ControllerServlet.java(24,  LawOfDemeter):  Potential violation of Law of Demeter (method chain calls)
+src/net/codejava/javaee/empdb/ControllerServlet.java(25,  LocalVariableCouldBeFinal):  Local variable 'jdbcPassword' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(25,  LocalVariableCouldBeFinal):  Local variable 'jdbcPassword' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(25,  LawOfDemeter):  Potential violation of Law of Demeter (method chain calls)
+src/net/codejava/javaee/empdb/ControllerServlet.java(25,  LawOfDemeter):  Potential violation of Law of Demeter (method chain calls)
+src/net/codejava/javaee/empdb/ControllerServlet.java(31,  MethodArgumentCouldBeFinal):  Parameter 'request' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(31,  MethodArgumentCouldBeFinal):  Parameter 'request' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(31,  MethodArgumentCouldBeFinal):  Parameter 'response' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(31,  MethodArgumentCouldBeFinal):  Parameter 'response' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(31,  CommentRequired):  Protected method constructor comments are required
+src/net/codejava/javaee/empdb/ControllerServlet.java(31,  CommentRequired):  Protected method constructor comments are required
+src/net/codejava/javaee/empdb/ControllerServlet.java(31,  MissingOverride):  The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/net/codejava/javaee/empdb/ControllerServlet.java(31,  MissingOverride):  The method 'doPost(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/net/codejava/javaee/empdb/ControllerServlet.java(36,  MethodArgumentCouldBeFinal):  Parameter 'request' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(36,  MethodArgumentCouldBeFinal):  Parameter 'request' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(36,  MethodArgumentCouldBeFinal):  Parameter 'response' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(36,  MethodArgumentCouldBeFinal):  Parameter 'response' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(36,  CommentRequired):  Protected method constructor comments are required
+src/net/codejava/javaee/empdb/ControllerServlet.java(36,  CommentRequired):  Protected method constructor comments are required
+src/net/codejava/javaee/empdb/ControllerServlet.java(36,  MissingOverride):  The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/net/codejava/javaee/empdb/ControllerServlet.java(36,  MissingOverride):  The method 'doGet(HttpServletRequest, HttpServletResponse)' is missing an @Override annotation.
+src/net/codejava/javaee/empdb/ControllerServlet.java(38,  LocalVariableCouldBeFinal):  Local variable 'action' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(38,  LocalVariableCouldBeFinal):  Local variable 'action' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(66,  MethodArgumentCouldBeFinal):  Parameter 'request' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(66,  MethodArgumentCouldBeFinal):  Parameter 'request' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(66,  MethodArgumentCouldBeFinal):  Parameter 'response' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(66,  MethodArgumentCouldBeFinal):  Parameter 'response' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(68,  LocalVariableCouldBeFinal):  Local variable 'listEmp' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(68,  LocalVariableCouldBeFinal):  Local variable 'listEmp' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(70,  LocalVariableCouldBeFinal):  Local variable 'dispatcher' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(70,  LocalVariableCouldBeFinal):  Local variable 'dispatcher' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(71,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/ControllerServlet.java(71,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/ControllerServlet.java(74,  MethodArgumentCouldBeFinal):  Parameter 'request' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(74,  MethodArgumentCouldBeFinal):  Parameter 'request' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(74,  MethodArgumentCouldBeFinal):  Parameter 'response' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(74,  MethodArgumentCouldBeFinal):  Parameter 'response' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(76,  LocalVariableCouldBeFinal):  Local variable 'dispatcher' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(76,  LocalVariableCouldBeFinal):  Local variable 'dispatcher' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(77,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/ControllerServlet.java(77,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/ControllerServlet.java(80,  MethodArgumentCouldBeFinal):  Parameter 'request' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(80,  MethodArgumentCouldBeFinal):  Parameter 'request' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(80,  MethodArgumentCouldBeFinal):  Parameter 'response' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(80,  MethodArgumentCouldBeFinal):  Parameter 'response' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(82,  ShortVariable):  Avoid variables with short names like id
+src/net/codejava/javaee/empdb/ControllerServlet.java(82,  ShortVariable):  Avoid variables with short names like id
+src/net/codejava/javaee/empdb/ControllerServlet.java(82,  LocalVariableCouldBeFinal):  Local variable 'id' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(82,  LocalVariableCouldBeFinal):  Local variable 'id' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(83,  LocalVariableCouldBeFinal):  Local variable 'existingBook' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(83,  LocalVariableCouldBeFinal):  Local variable 'existingBook' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(84,  LocalVariableCouldBeFinal):  Local variable 'dispatcher' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(84,  LocalVariableCouldBeFinal):  Local variable 'dispatcher' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(86,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/ControllerServlet.java(86,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/ControllerServlet.java(90,  MethodArgumentCouldBeFinal):  Parameter 'request' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(90,  MethodArgumentCouldBeFinal):  Parameter 'request' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(90,  MethodArgumentCouldBeFinal):  Parameter 'response' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(90,  MethodArgumentCouldBeFinal):  Parameter 'response' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(91,  LocalVariableCouldBeFinal):  Local variable 'empname' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(91,  LocalVariableCouldBeFinal):  Local variable 'empname' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(92,  LocalVariableCouldBeFinal):  Local variable 'empdesignation' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(92,  LocalVariableCouldBeFinal):  Local variable 'empdesignation' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(93,  LocalVariableCouldBeFinal):  Local variable 'location' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(93,  LocalVariableCouldBeFinal):  Local variable 'location' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(95,  LocalVariableCouldBeFinal):  Local variable 'newBook' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(95,  LocalVariableCouldBeFinal):  Local variable 'newBook' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(100,  MethodArgumentCouldBeFinal):  Parameter 'request' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(100,  MethodArgumentCouldBeFinal):  Parameter 'request' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(100,  MethodArgumentCouldBeFinal):  Parameter 'response' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(100,  MethodArgumentCouldBeFinal):  Parameter 'response' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(101,  ShortVariable):  Avoid variables with short names like id
+src/net/codejava/javaee/empdb/ControllerServlet.java(101,  ShortVariable):  Avoid variables with short names like id
+src/net/codejava/javaee/empdb/ControllerServlet.java(101,  LocalVariableCouldBeFinal):  Local variable 'id' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(101,  LocalVariableCouldBeFinal):  Local variable 'id' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(102,  LocalVariableCouldBeFinal):  Local variable 'empname' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(102,  LocalVariableCouldBeFinal):  Local variable 'empname' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(103,  LocalVariableCouldBeFinal):  Local variable 'empdesignation' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(103,  LocalVariableCouldBeFinal):  Local variable 'empdesignation' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(104,  LocalVariableCouldBeFinal):  Local variable 'location' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(104,  LocalVariableCouldBeFinal):  Local variable 'location' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(106,  LocalVariableCouldBeFinal):  Local variable 'upemp' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(106,  LocalVariableCouldBeFinal):  Local variable 'upemp' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(111,  MethodArgumentCouldBeFinal):  Parameter 'request' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(111,  MethodArgumentCouldBeFinal):  Parameter 'request' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(111,  MethodArgumentCouldBeFinal):  Parameter 'response' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(111,  MethodArgumentCouldBeFinal):  Parameter 'response' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(112,  ShortVariable):  Avoid variables with short names like id
+src/net/codejava/javaee/empdb/ControllerServlet.java(112,  ShortVariable):  Avoid variables with short names like id
+src/net/codejava/javaee/empdb/ControllerServlet.java(112,  LocalVariableCouldBeFinal):  Local variable 'id' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(112,  LocalVariableCouldBeFinal):  Local variable 'id' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(114,  LocalVariableCouldBeFinal):  Local variable 'empdel' could be declared final
+src/net/codejava/javaee/empdb/ControllerServlet.java(114,  LocalVariableCouldBeFinal):  Local variable 'empdel' could be declared final
+src/net/codejava/javaee/empdb/Employee.java(9,  DataClass):  The class 'Employee' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=8, WMC=12)
+src/net/codejava/javaee/empdb/Employee.java(9,  DataClass):  The class 'Employee' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=8, WMC=12)
+src/net/codejava/javaee/empdb/Employee.java(10,  ShortVariable):  Avoid variables with short names like id
+src/net/codejava/javaee/empdb/Employee.java(10,  ShortVariable):  Avoid variables with short names like id
+src/net/codejava/javaee/empdb/Employee.java(10,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/Employee.java(10,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/Employee.java(11,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/Employee.java(11,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/Employee.java(12,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/Employee.java(12,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/Employee.java(13,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/Employee.java(13,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/Employee.java(15,  UncommentedEmptyConstructor):  Document empty constructor
+src/net/codejava/javaee/empdb/Employee.java(15,  UncommentedEmptyConstructor):  Document empty constructor
+src/net/codejava/javaee/empdb/Employee.java(15,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/Employee.java(15,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/Employee.java(18,  ShortVariable):  Avoid variables with short names like id
+src/net/codejava/javaee/empdb/Employee.java(18,  ShortVariable):  Avoid variables with short names like id
+src/net/codejava/javaee/empdb/Employee.java(18,  MethodArgumentCouldBeFinal):  Parameter 'id' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(18,  MethodArgumentCouldBeFinal):  Parameter 'id' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(18,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/Employee.java(18,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/Employee.java(22,  ShortVariable):  Avoid variables with short names like id
+src/net/codejava/javaee/empdb/Employee.java(22,  ShortVariable):  Avoid variables with short names like id
+src/net/codejava/javaee/empdb/Employee.java(22,  MethodArgumentCouldBeFinal):  Parameter 'designation' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(22,  MethodArgumentCouldBeFinal):  Parameter 'designation' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(22,  MethodArgumentCouldBeFinal):  Parameter 'empname' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(22,  MethodArgumentCouldBeFinal):  Parameter 'empname' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(22,  MethodArgumentCouldBeFinal):  Parameter 'id' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(22,  MethodArgumentCouldBeFinal):  Parameter 'id' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(22,  MethodArgumentCouldBeFinal):  Parameter 'location' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(22,  MethodArgumentCouldBeFinal):  Parameter 'location' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(22,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/Employee.java(22,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/Employee.java(27,  MethodArgumentCouldBeFinal):  Parameter 'designation' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(27,  MethodArgumentCouldBeFinal):  Parameter 'designation' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(27,  MethodArgumentCouldBeFinal):  Parameter 'location' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(27,  MethodArgumentCouldBeFinal):  Parameter 'location' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(27,  MethodArgumentCouldBeFinal):  Parameter 'title' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(27,  MethodArgumentCouldBeFinal):  Parameter 'title' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(27,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/Employee.java(27,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/Employee.java(37,  ShortVariable):  Avoid variables with short names like id
+src/net/codejava/javaee/empdb/Employee.java(37,  ShortVariable):  Avoid variables with short names like id
+src/net/codejava/javaee/empdb/Employee.java(37,  MethodArgumentCouldBeFinal):  Parameter 'id' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(37,  MethodArgumentCouldBeFinal):  Parameter 'id' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(47,  MethodArgumentCouldBeFinal):  Parameter 'empname' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(47,  MethodArgumentCouldBeFinal):  Parameter 'empname' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(57,  MethodArgumentCouldBeFinal):  Parameter 'empdesignation' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(57,  MethodArgumentCouldBeFinal):  Parameter 'empdesignation' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(65,  MethodArgumentCouldBeFinal):  Parameter 'location' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(65,  MethodArgumentCouldBeFinal):  Parameter 'location' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/Employee.java(69,  CommentSize):  Comment is too large: Too many lines
+src/net/codejava/javaee/empdb/Employee.java(69,  CommentSize):  Comment is too large: Too many lines
+src/net/codejava/javaee/empdb/EmployeeDAO.java(20,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(20,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(20,  BeanMembersShouldSerialize):  Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/net/codejava/javaee/empdb/EmployeeDAO.java(20,  BeanMembersShouldSerialize):  Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/net/codejava/javaee/empdb/EmployeeDAO.java(20,  ImmutableField):  Private field 'jdbcURL' could be made final; it is only initialized in the declaration or constructor.
+src/net/codejava/javaee/empdb/EmployeeDAO.java(20,  ImmutableField):  Private field 'jdbcURL' could be made final; it is only initialized in the declaration or constructor.
+src/net/codejava/javaee/empdb/EmployeeDAO.java(21,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(21,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(21,  BeanMembersShouldSerialize):  Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/net/codejava/javaee/empdb/EmployeeDAO.java(21,  BeanMembersShouldSerialize):  Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/net/codejava/javaee/empdb/EmployeeDAO.java(21,  ImmutableField):  Private field 'jdbcUsername' could be made final; it is only initialized in the declaration or constructor.
+src/net/codejava/javaee/empdb/EmployeeDAO.java(21,  ImmutableField):  Private field 'jdbcUsername' could be made final; it is only initialized in the declaration or constructor.
+src/net/codejava/javaee/empdb/EmployeeDAO.java(22,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(22,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(22,  BeanMembersShouldSerialize):  Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/net/codejava/javaee/empdb/EmployeeDAO.java(22,  BeanMembersShouldSerialize):  Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/net/codejava/javaee/empdb/EmployeeDAO.java(22,  ImmutableField):  Private field 'jdbcPassword' could be made final; it is only initialized in the declaration or constructor.
+src/net/codejava/javaee/empdb/EmployeeDAO.java(22,  ImmutableField):  Private field 'jdbcPassword' could be made final; it is only initialized in the declaration or constructor.
+src/net/codejava/javaee/empdb/EmployeeDAO.java(23,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(23,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(23,  BeanMembersShouldSerialize):  Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/net/codejava/javaee/empdb/EmployeeDAO.java(23,  BeanMembersShouldSerialize):  Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/net/codejava/javaee/empdb/EmployeeDAO.java(24,  UnusedPrivateField):  Avoid unused private fields such as 'jdbcConnection2'.
+src/net/codejava/javaee/empdb/EmployeeDAO.java(24,  UnusedPrivateField):  Avoid unused private fields such as 'jdbcConnection2'.
+src/net/codejava/javaee/empdb/EmployeeDAO.java(24,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(24,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(26,  MethodArgumentCouldBeFinal):  Parameter 'jdbcPassword' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(26,  MethodArgumentCouldBeFinal):  Parameter 'jdbcPassword' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(26,  MethodArgumentCouldBeFinal):  Parameter 'jdbcURL' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(26,  MethodArgumentCouldBeFinal):  Parameter 'jdbcURL' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(26,  MethodArgumentCouldBeFinal):  Parameter 'jdbcUsername' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(26,  MethodArgumentCouldBeFinal):  Parameter 'jdbcUsername' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(26,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(26,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(32,  CommentRequired):  Protected method constructor comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(32,  CommentRequired):  Protected method constructor comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(44,  CommentRequired):  Protected method constructor comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(44,  CommentRequired):  Protected method constructor comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(50,  MethodArgumentCouldBeFinal):  Parameter 'emp' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(50,  MethodArgumentCouldBeFinal):  Parameter 'emp' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(50,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(50,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(51,  LocalVariableCouldBeFinal):  Local variable 'sql' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(51,  LocalVariableCouldBeFinal):  Local variable 'sql' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(54,  LocalVariableCouldBeFinal):  Local variable 'statement' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(54,  LocalVariableCouldBeFinal):  Local variable 'statement' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(55,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(55,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(56,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(56,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(57,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(57,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(59,  LocalVariableCouldBeFinal):  Local variable 'rowInserted' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(59,  LocalVariableCouldBeFinal):  Local variable 'rowInserted' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(59,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(59,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(60,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(60,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(65,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(65,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(66,  LocalVariableCouldBeFinal):  Local variable 'listEmp' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(66,  LocalVariableCouldBeFinal):  Local variable 'listEmp' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(68,  LocalVariableCouldBeFinal):  Local variable 'sql' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(68,  LocalVariableCouldBeFinal):  Local variable 'sql' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(72,  CloseResource):  Ensure that resources like this Statement object are closed after use
+src/net/codejava/javaee/empdb/EmployeeDAO.java(72,  CloseResource):  Ensure that resources like this Statement object are closed after use
+src/net/codejava/javaee/empdb/EmployeeDAO.java(72,  LocalVariableCouldBeFinal):  Local variable 'statement' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(72,  LocalVariableCouldBeFinal):  Local variable 'statement' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(73,  CloseResource):  Ensure that resources like this ResultSet object are closed after use
+src/net/codejava/javaee/empdb/EmployeeDAO.java(73,  CloseResource):  Ensure that resources like this ResultSet object are closed after use
+src/net/codejava/javaee/empdb/EmployeeDAO.java(73,  LocalVariableCouldBeFinal):  Local variable 'resultSet' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(73,  LocalVariableCouldBeFinal):  Local variable 'resultSet' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(73,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(73,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(75,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(75,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(76,  ShortVariable):  Avoid variables with short names like id
+src/net/codejava/javaee/empdb/EmployeeDAO.java(76,  ShortVariable):  Avoid variables with short names like id
+src/net/codejava/javaee/empdb/EmployeeDAO.java(76,  LocalVariableCouldBeFinal):  Local variable 'id' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(76,  LocalVariableCouldBeFinal):  Local variable 'id' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(77,  LocalVariableCouldBeFinal):  Local variable 'empname' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(77,  LocalVariableCouldBeFinal):  Local variable 'empname' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(78,  LocalVariableCouldBeFinal):  Local variable 'empdesignation' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(78,  LocalVariableCouldBeFinal):  Local variable 'empdesignation' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(79,  LocalVariableCouldBeFinal):  Local variable 'location' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(79,  LocalVariableCouldBeFinal):  Local variable 'location' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(81,  AvoidInstantiatingObjectsInLoops):  Avoid instantiating new objects inside loops
+src/net/codejava/javaee/empdb/EmployeeDAO.java(81,  AvoidInstantiatingObjectsInLoops):  Avoid instantiating new objects inside loops
+src/net/codejava/javaee/empdb/EmployeeDAO.java(81,  LocalVariableCouldBeFinal):  Local variable 'emp' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(81,  LocalVariableCouldBeFinal):  Local variable 'emp' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(85,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(85,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(86,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(86,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(93,  MethodArgumentCouldBeFinal):  Parameter 'book' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(93,  MethodArgumentCouldBeFinal):  Parameter 'book' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(93,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(93,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(94,  LocalVariableCouldBeFinal):  Local variable 'sql' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(94,  LocalVariableCouldBeFinal):  Local variable 'sql' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(98,  LocalVariableCouldBeFinal):  Local variable 'statement' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(98,  LocalVariableCouldBeFinal):  Local variable 'statement' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(99,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(99,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(101,  LocalVariableCouldBeFinal):  Local variable 'rowDeleted' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(101,  LocalVariableCouldBeFinal):  Local variable 'rowDeleted' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(101,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(101,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(102,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(102,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(107,  MethodArgumentCouldBeFinal):  Parameter 'emp' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(107,  MethodArgumentCouldBeFinal):  Parameter 'emp' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(107,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(107,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(109,  UseStringBufferForStringAppends):  Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+src/net/codejava/javaee/empdb/EmployeeDAO.java(109,  UseStringBufferForStringAppends):  Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+src/net/codejava/javaee/empdb/EmployeeDAO.java(112,  LocalVariableCouldBeFinal):  Local variable 'statement' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(112,  LocalVariableCouldBeFinal):  Local variable 'statement' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(113,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(113,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(114,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(114,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(115,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(115,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(116,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(116,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(118,  LocalVariableCouldBeFinal):  Local variable 'rowUpdated' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(118,  LocalVariableCouldBeFinal):  Local variable 'rowUpdated' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(118,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(118,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(119,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(119,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(124,  ShortVariable):  Avoid variables with short names like id
+src/net/codejava/javaee/empdb/EmployeeDAO.java(124,  ShortVariable):  Avoid variables with short names like id
+src/net/codejava/javaee/empdb/EmployeeDAO.java(124,  MethodArgumentCouldBeFinal):  Parameter 'id' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(124,  MethodArgumentCouldBeFinal):  Parameter 'id' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(124,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(124,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/EmployeeDAO.java(125,  DataflowAnomalyAnalysis):  Found 'DD'-anomaly for variable 'emp' (lines '125'-'140').
+src/net/codejava/javaee/empdb/EmployeeDAO.java(125,  DataflowAnomalyAnalysis):  Found 'DD'-anomaly for variable 'emp' (lines '125'-'140').
+src/net/codejava/javaee/empdb/EmployeeDAO.java(126,  LocalVariableCouldBeFinal):  Local variable 'sql' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(126,  LocalVariableCouldBeFinal):  Local variable 'sql' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(130,  LocalVariableCouldBeFinal):  Local variable 'statement' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(130,  LocalVariableCouldBeFinal):  Local variable 'statement' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(131,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(131,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(133,  CloseResource):  Ensure that resources like this ResultSet object are closed after use
+src/net/codejava/javaee/empdb/EmployeeDAO.java(133,  CloseResource):  Ensure that resources like this ResultSet object are closed after use
+src/net/codejava/javaee/empdb/EmployeeDAO.java(133,  LocalVariableCouldBeFinal):  Local variable 'resultSet' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(133,  LocalVariableCouldBeFinal):  Local variable 'resultSet' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(133,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(133,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(135,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(135,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(136,  LocalVariableCouldBeFinal):  Local variable 'empname' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(136,  LocalVariableCouldBeFinal):  Local variable 'empname' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(137,  LocalVariableCouldBeFinal):  Local variable 'empdesignation' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(137,  LocalVariableCouldBeFinal):  Local variable 'empdesignation' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(138,  LocalVariableCouldBeFinal):  Local variable 'location' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(138,  LocalVariableCouldBeFinal):  Local variable 'location' could be declared final
+src/net/codejava/javaee/empdb/EmployeeDAO.java(143,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(143,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(144,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/EmployeeDAO.java(144,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/TestUrl.java(13,  UnusedImports):  Avoid unused imports such as 'org.testng.annotations.Test'
+src/net/codejava/javaee/empdb/TestUrl.java(13,  UnusedImports):  Avoid unused imports such as 'org.testng.annotations.Test'
+src/net/codejava/javaee/empdb/TestUrl.java(15,  AtLeastOneConstructor):  Each class should declare at least one constructor
+src/net/codejava/javaee/empdb/TestUrl.java(15,  AtLeastOneConstructor):  Each class should declare at least one constructor
+src/net/codejava/javaee/empdb/TestUrl.java(15,  CommentRequired):  Header comments are required
+src/net/codejava/javaee/empdb/TestUrl.java(15,  CommentRequired):  Header comments are required
+src/net/codejava/javaee/empdb/TestUrl.java(17,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/TestUrl.java(17,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/TestUrl.java(18,  AvoidFieldNameMatchingMethodName):  Field TestUrl has the same name as a method
+src/net/codejava/javaee/empdb/TestUrl.java(18,  AvoidFieldNameMatchingMethodName):  Field TestUrl has the same name as a method
+src/net/codejava/javaee/empdb/TestUrl.java(18,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/TestUrl.java(18,  CommentRequired):  Field comments are required
+src/net/codejava/javaee/empdb/TestUrl.java(18,  AvoidFieldNameMatchingTypeName):  It is somewhat confusing to have a field name matching the declaring class name
+src/net/codejava/javaee/empdb/TestUrl.java(18,  AvoidFieldNameMatchingTypeName):  It is somewhat confusing to have a field name matching the declaring class name
+src/net/codejava/javaee/empdb/TestUrl.java(18,  FieldNamingConventions):  The static field name 'TestUrl' doesn't match '[a-z][a-zA-Z0-9]*'
+src/net/codejava/javaee/empdb/TestUrl.java(18,  FieldNamingConventions):  The static field name 'TestUrl' doesn't match '[a-z][a-zA-Z0-9]*'
+src/net/codejava/javaee/empdb/TestUrl.java(18,  VariableNamingConventions):  Variables should start with a lowercase character, 'TestUrl' starts with uppercase character.
+src/net/codejava/javaee/empdb/TestUrl.java(18,  VariableNamingConventions):  Variables should start with a lowercase character, 'TestUrl' starts with uppercase character.
+src/net/codejava/javaee/empdb/TestUrl.java(20,  SignatureDeclareThrowsException):  A method/constructor should not explicitly throw java.lang.Exception
+src/net/codejava/javaee/empdb/TestUrl.java(20,  SignatureDeclareThrowsException):  A method/constructor should not explicitly throw java.lang.Exception
+src/net/codejava/javaee/empdb/TestUrl.java(20,  MethodArgumentCouldBeFinal):  Parameter 'args' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(20,  MethodArgumentCouldBeFinal):  Parameter 'args' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(20,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/TestUrl.java(20,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/TestUrl.java(26,  JUnit4TestShouldUseTestAnnotation):  JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/net/codejava/javaee/empdb/TestUrl.java(26,  JUnit4TestShouldUseTestAnnotation):  JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/net/codejava/javaee/empdb/TestUrl.java(26,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/TestUrl.java(26,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/TestUrl.java(29,  LocalVariableCouldBeFinal):  Local variable 'Url' could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(29,  LocalVariableCouldBeFinal):  Local variable 'Url' could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(29,  LocalVariableNamingConventions):  The local variable name 'Url' doesn't match '[a-z][a-zA-Z0-9]*'
+src/net/codejava/javaee/empdb/TestUrl.java(29,  LocalVariableNamingConventions):  The local variable name 'Url' doesn't match '[a-z][a-zA-Z0-9]*'
+src/net/codejava/javaee/empdb/TestUrl.java(29,  VariableNamingConventions):  Variables should start with a lowercase character, 'Url' starts with uppercase character.
+src/net/codejava/javaee/empdb/TestUrl.java(29,  VariableNamingConventions):  Variables should start with a lowercase character, 'Url' starts with uppercase character.
+src/net/codejava/javaee/empdb/TestUrl.java(30,  AvoidFileStream):  Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/net/codejava/javaee/empdb/TestUrl.java(30,  AvoidFileStream):  Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/net/codejava/javaee/empdb/TestUrl.java(32,  LocalVariableCouldBeFinal):  Local variable 'prop' could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(32,  LocalVariableCouldBeFinal):  Local variable 'prop' could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(39,  LocalVariableCouldBeFinal):  Local variable 'TestUrl' could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(39,  LocalVariableCouldBeFinal):  Local variable 'TestUrl' could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(39,  LocalVariableNamingConventions):  The local variable name 'TestUrl' doesn't match '[a-z][a-zA-Z0-9]*'
+src/net/codejava/javaee/empdb/TestUrl.java(39,  LocalVariableNamingConventions):  The local variable name 'TestUrl' doesn't match '[a-z][a-zA-Z0-9]*'
+src/net/codejava/javaee/empdb/TestUrl.java(39,  VariableNamingConventions):  Variables should start with a lowercase character, 'TestUrl' starts with uppercase character.
+src/net/codejava/javaee/empdb/TestUrl.java(39,  VariableNamingConventions):  Variables should start with a lowercase character, 'TestUrl' starts with uppercase character.
+src/net/codejava/javaee/empdb/TestUrl.java(40,  SystemPrintln):  System.out.println is used
+src/net/codejava/javaee/empdb/TestUrl.java(40,  SystemPrintln):  System.out.println is used
+src/net/codejava/javaee/empdb/TestUrl.java(44,  AvoidPrintStackTrace):  Avoid printStackTrace(); use a logger call instead.
+src/net/codejava/javaee/empdb/TestUrl.java(44,  AvoidPrintStackTrace):  Avoid printStackTrace(); use a logger call instead.
+src/net/codejava/javaee/empdb/TestUrl.java(51,  SignatureDeclareThrowsException):  A method/constructor should not explicitly throw java.lang.Exception
+src/net/codejava/javaee/empdb/TestUrl.java(51,  SignatureDeclareThrowsException):  A method/constructor should not explicitly throw java.lang.Exception
+src/net/codejava/javaee/empdb/TestUrl.java(51,  MethodArgumentCouldBeFinal):  Parameter 'colName' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(51,  MethodArgumentCouldBeFinal):  Parameter 'colName' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(51,  MethodArgumentCouldBeFinal):  Parameter 'data' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(51,  MethodArgumentCouldBeFinal):  Parameter 'data' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(51,  MethodArgumentCouldBeFinal):  Parameter 'path' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(51,  MethodArgumentCouldBeFinal):  Parameter 'path' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(51,  MethodArgumentCouldBeFinal):  Parameter 'sheetName' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(51,  MethodArgumentCouldBeFinal):  Parameter 'sheetName' is not assigned and could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(51,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/TestUrl.java(51,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/TestUrl.java(51,  UseObjectForClearerAPI):  Rather than using a lot of String arguments, consider using a container object for those values.
+src/net/codejava/javaee/empdb/TestUrl.java(51,  UseObjectForClearerAPI):  Rather than using a lot of String arguments, consider using a container object for those values.
+src/net/codejava/javaee/empdb/TestUrl.java(54,  AddEmptyString):  Do not add empty strings
+src/net/codejava/javaee/empdb/TestUrl.java(54,  AddEmptyString):  Do not add empty strings
+src/net/codejava/javaee/empdb/TestUrl.java(54,  SystemPrintln):  System.out.println is used
+src/net/codejava/javaee/empdb/TestUrl.java(54,  SystemPrintln):  System.out.println is used
+src/net/codejava/javaee/empdb/TestUrl.java(55,  AvoidFileStream):  Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/net/codejava/javaee/empdb/TestUrl.java(55,  AvoidFileStream):  Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/net/codejava/javaee/empdb/TestUrl.java(55,  LocalVariableCouldBeFinal):  Local variable 'fis' could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(55,  LocalVariableCouldBeFinal):  Local variable 'fis' could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(56,  LocalVariableCouldBeFinal):  Local variable 'workbook' could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(56,  LocalVariableCouldBeFinal):  Local variable 'workbook' could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(57,  LocalVariableCouldBeFinal):  Local variable 'sheet' could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(57,  LocalVariableCouldBeFinal):  Local variable 'sheet' could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(58,  DataflowAnomalyAnalysis):  Found 'DD'-anomaly for variable 'col_Num' (lines '58'-'62').
+src/net/codejava/javaee/empdb/TestUrl.java(58,  DataflowAnomalyAnalysis):  Found 'DD'-anomaly for variable 'col_Num' (lines '58'-'62').
+src/net/codejava/javaee/empdb/TestUrl.java(58,  VariableNamingConventions):  Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'col_Num' is not final.
+src/net/codejava/javaee/empdb/TestUrl.java(58,  VariableNamingConventions):  Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'col_Num' is not final.
+src/net/codejava/javaee/empdb/TestUrl.java(58,  LocalVariableNamingConventions):  The local variable name 'col_Num' doesn't match '[a-z][a-zA-Z0-9]*'
+src/net/codejava/javaee/empdb/TestUrl.java(58,  LocalVariableNamingConventions):  The local variable name 'col_Num' doesn't match '[a-z][a-zA-Z0-9]*'
+src/net/codejava/javaee/empdb/TestUrl.java(59,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/TestUrl.java(59,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/TestUrl.java(61,  LawOfDemeter):  Potential violation of Law of Demeter (method chain calls)
+src/net/codejava/javaee/empdb/TestUrl.java(61,  LawOfDemeter):  Potential violation of Law of Demeter (method chain calls)
+src/net/codejava/javaee/empdb/TestUrl.java(61,  LawOfDemeter):  Potential violation of Law of Demeter (method chain calls)
+src/net/codejava/javaee/empdb/TestUrl.java(61,  LawOfDemeter):  Potential violation of Law of Demeter (method chain calls)
+src/net/codejava/javaee/empdb/TestUrl.java(61,  LawOfDemeter):  Potential violation of Law of Demeter (method chain calls)
+src/net/codejava/javaee/empdb/TestUrl.java(61,  LawOfDemeter):  Potential violation of Law of Demeter (method chain calls)
+src/net/codejava/javaee/empdb/TestUrl.java(62,  DataflowAnomalyAnalysis):  Found 'DD'-anomaly for variable 'col_Num' (lines '62'-'62').
+src/net/codejava/javaee/empdb/TestUrl.java(62,  DataflowAnomalyAnalysis):  Found 'DD'-anomaly for variable 'col_Num' (lines '62'-'62').
+src/net/codejava/javaee/empdb/TestUrl.java(66,  LocalVariableCouldBeFinal):  Local variable 'rowNum' could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(66,  LocalVariableCouldBeFinal):  Local variable 'rowNum' could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(69,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/TestUrl.java(69,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/TestUrl.java(70,  IfStmtsMustUseBraces):  Avoid using if statements without curly braces
+src/net/codejava/javaee/empdb/TestUrl.java(70,  IfStmtsMustUseBraces):  Avoid using if statements without curly braces
+src/net/codejava/javaee/empdb/TestUrl.java(71,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/TestUrl.java(71,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/TestUrl.java(71,  ControlStatementBraces):  This statement should have braces
+src/net/codejava/javaee/empdb/TestUrl.java(71,  ControlStatementBraces):  This statement should have braces
+src/net/codejava/javaee/empdb/TestUrl.java(73,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/TestUrl.java(73,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/TestUrl.java(74,  IfStmtsMustUseBraces):  Avoid using if statements without curly braces
+src/net/codejava/javaee/empdb/TestUrl.java(74,  IfStmtsMustUseBraces):  Avoid using if statements without curly braces
+src/net/codejava/javaee/empdb/TestUrl.java(75,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/TestUrl.java(75,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/TestUrl.java(75,  ControlStatementBraces):  This statement should have braces
+src/net/codejava/javaee/empdb/TestUrl.java(75,  ControlStatementBraces):  This statement should have braces
+src/net/codejava/javaee/empdb/TestUrl.java(76,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/TestUrl.java(76,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/TestUrl.java(77,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/TestUrl.java(77,  LawOfDemeter):  Potential violation of Law of Demeter (object not created locally)
+src/net/codejava/javaee/empdb/TestUrl.java(78,  AvoidFileStream):  Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/net/codejava/javaee/empdb/TestUrl.java(78,  AvoidFileStream):  Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/net/codejava/javaee/empdb/TestUrl.java(78,  LocalVariableCouldBeFinal):  Local variable 'fos' could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(78,  LocalVariableCouldBeFinal):  Local variable 'fos' could be declared final
+src/net/codejava/javaee/empdb/TestUrl.java(81,  SystemPrintln):  System.out.println is used
+src/net/codejava/javaee/empdb/TestUrl.java(81,  SystemPrintln):  System.out.println is used
+src/net/codejava/javaee/empdb/TestUrl.java(82,  AddEmptyString):  Do not add empty strings
+src/net/codejava/javaee/empdb/TestUrl.java(82,  AddEmptyString):  Do not add empty strings
+src/net/codejava/javaee/empdb/TestUrl.java(88,  JUnit4TestShouldUseTestAnnotation):  JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/net/codejava/javaee/empdb/TestUrl.java(88,  JUnit4TestShouldUseTestAnnotation):  JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/net/codejava/javaee/empdb/TestUrl.java(88,  CommentRequired):  Public method and constructor comments are required
+src/net/codejava/javaee/empdb/TestUrl.java(88,  CommentRequired):  Public method and constructor comments are required
